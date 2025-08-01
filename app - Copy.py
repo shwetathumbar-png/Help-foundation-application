@@ -50,5 +50,5 @@ def main():
         response = prediction(in_data)
         st.success(response)
         
-if__name__=='__main__':
+if __name__=='__main__':
     main()
